@@ -5,7 +5,7 @@ import "./../Styles.css";
 const Navbar = () => {
   return (
     <header>
-      <div className="logo">MyBrand</div>
+      <div className="logo">Fayiz Brand</div>
       <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
